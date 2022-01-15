@@ -1,0 +1,12 @@
+.navbar{
+    position: absolute;
+    background: transparent!important;
+    width: 100%;
+    z-index: 10;
+    border-bottom: 1px solid rgb(255, 255, 255,0.3);
+}
+.nav-link{
+    color: rgb(8, 8, 8)!important;
+    margin-left: 20px;
+    font-size:large;
+}
